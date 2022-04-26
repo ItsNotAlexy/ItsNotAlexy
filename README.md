@@ -1,8 +1,8 @@
 ```js
 // ABOUT ME \\
-const Name = "Alexy";
-const Age = 14;
-let Age = 15; 
+const Name = "Alexy",
+const Age = 14,
+let Age = 15,
 const Country = "Indonesia";
 ```
 
