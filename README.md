@@ -1,9 +1,15 @@
-```js
+```cpp
+#include <iostream>
+
 // ABOUT ME \\
-const Name = "Alexy",
-let age = 14,
-let age = 15,
-const Country = "Indonesia";
+
+int main(){
+  std::cout << "Country:" << "Indonesia";
+  std::cout << "Age: " << "16";
+  std::cout << "Current Projects" << "Virtual Beer Development";
+  return 0;
+}
+
 ```
 
 ![Discord_User](https://dcbadge.vercel.app/api/shield/697323031919591454)
