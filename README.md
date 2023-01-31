@@ -16,9 +16,14 @@
 
 `💮` Age: 16
 
-`💨` Interest: Programming, Designing, Traveling
+`🖤` Interest: Programming, Designing, Traveling, Cyber Security
 
-`💼` Occupations: Virtual Beer Development | Founder/Main Developer
+`💼` Occupations: 
+- Virtual Beer Development | Founder/Main Developer
+- Drunk Bartender | Developer
+- Voidworks | Co-Owner/Developer
+- Extreme War Experience | UAF Engineer
+- eZaR | Co-Founder/Developer
 
 `🔨` Jobs: Discord Bot Developer, Roblox Developer, UI/UX Design
 
