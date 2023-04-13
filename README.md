@@ -1,36 +1,30 @@
-# 
-<div align="center">
-  <img src="https://dcbadge.vercel.app/api/shield/697323031919591454">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-#
-
-<br>
-
 # About Me ✨
 
-`👨‍💻` Name: Alexyy
+Name: Alexy
 
-`💮` Age: 16
+Interest: Programming, Designing, Traveling, Cyber Security
 
-`🖤` Interest: Programming, Designing, Traveling, Cyber Security
-
-`💼` Occupations: 
+Occupations: 
+- RandSoft | Founder/Developer
+- FearlessTech | Member
+- Viabots | Member
+- LunesHost | IT Support
 - Virtual Beer Development | Founder/Main Developer
 - Drunk Bartender | Developer
 - Voidworks | Co-Owner/Developer
 - Extreme War Experience | UAF Engineer
 - eZaR | Co-Founder/Developer
 
-`🔨` Jobs: Discord Bot Developer, Roblox Developer, UI/UX Design
-
 <br>
 
 # My Stats 📊
 
+<div align="center">
+
+![My Discord](https://dcbadge.vercel.app/api/shield/697323031919591454)
+
 ![My commits](https://github-readme-stats.vercel.app/api?username=ItsNotAlexy&count_private=true&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotAlexy&layout=compact&theme=transparent)
+  
+</div>
