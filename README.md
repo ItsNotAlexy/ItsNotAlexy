@@ -1,24 +1,3 @@
-# About Me ✨
-
-Name: Alexy
-
-Interest: Programming, Designing, Traveling, Cyber Security
-
-Occupations: 
-- RandSoft | Founder/Developer
-- FearlessTech | Member
-- Viabots | Member
-- LunesHost | IT Support
-- Virtual Beer Development | Founder/Main Developer
-- Drunk Bartender | Developer
-- Voidworks | Co-Owner/Developer
-- Extreme War Experience | UAF Engineer
-- eZaR | Co-Founder/Developer
-
-<br>
-
-# My Stats 📊
-
 <div align="center">
 
 ![My Discord](https://dcbadge.vercel.app/api/shield/697323031919591454)
